@@ -1,4 +1,4 @@
 # caspius
-Easy logging system fo python
+Easy logging system for python
 
 https://pypi.org/project/caspius/
