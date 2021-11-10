@@ -7,7 +7,7 @@ HERE = pathlib.Path(__file__).parent
 
 setup(
     name="caspius",
-    version="1.0.0",
+    version="1.2",
     description="Easy logging system",
     long_description="Logging system which can show timestamp, "
                      "paint logs by your colors and handle every log by your functions",
